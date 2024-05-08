@@ -38,3 +38,14 @@
 	width: 286px;
 	height: 195px;
 }
+.container{
+	width: 286px;
+	height: 195px;
+	background: lightgrey;
+}
+.row{
+	margin-top: 50px;
+	display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+}
