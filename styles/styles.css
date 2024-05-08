@@ -41,11 +41,18 @@
 .container{
 	width: 286px;
 	height: 195px;
-	background: lightgrey;
+	background: white;
 }
 .row{
 	margin-top: 50px;
 	display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap-reverse;
+	justify-content: space-around;
+}
+.row2{
+	margin-top: 30px;
+	display: flex;
+	justify-content: space-around;
+}
+.box1 p{
+	color: white;
 }
